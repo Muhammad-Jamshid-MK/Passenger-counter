@@ -9,9 +9,6 @@ body {
 .container{
     width: auto;
     height: auto;
-    background-color: linear-gradient(red,yellow);
-    display: flex;
-    flex-direction: column;
 }
 
 h1 {
@@ -34,8 +31,6 @@ button {
     width: 200px;
     margin-bottom: 5px;
     border-radius: 5px;
-    align-items: center;
-    justify-content: center;
 }
 
 #increment-btn {
